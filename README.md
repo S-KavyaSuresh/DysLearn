@@ -28,6 +28,8 @@ Users can adjust:
 
 These adjustments allow students to create a reading environment that is comfortable for them.
 
+media/settings-panel.png
+
 ---
 
 ### 🤖 AI Study Assistant
@@ -42,6 +44,8 @@ Features:
 * Study assistance across multiple subjects
 
 The chatbot appears as a floating icon and expands into a chat window when clicked.
+
+media/chatbot.png
 
 ---
 
@@ -70,6 +74,8 @@ Additional learning tools include:
 
 A **Read Aloud** option allows the system to read the simplified content to the student.
 
+media/simplify-text.png
+
 ---
 
 ### 📅 Smart Study Planner
@@ -92,6 +98,8 @@ Features include:
 * Focus mode
 * Completion tracking
 * Rewards for completing schedules
+
+media/smart-scheduler.png
 
 ---
 
@@ -143,6 +151,10 @@ Displays:
 * Activity reports
 
 Visual charts provide insights into the student's learning habits.
+
+media/dashboard1.png
+
+media/dashboard2.png
 
 ---
 
