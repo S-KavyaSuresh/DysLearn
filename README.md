@@ -203,7 +203,7 @@ The demo includes:
 * Quiz generation
 * Dashboard analytics
 
-(Insert demo video link here)
+media/Demo.mp4
 
 ---
 
