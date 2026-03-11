@@ -1,5 +1,7 @@
 # DysLearn
 
+![DysLearn Preview](media/homepage.png)
+
 ## 🌟 Overview
 
 **DysLearn** is an AI-powered learning platform designed to help children with dyslexia study more comfortably and effectively.
@@ -28,7 +30,7 @@ Users can adjust:
 
 These adjustments allow students to create a reading environment that is comfortable for them.
 
-media/settings-panel.png
+![Settings Panel](media/settings-panel.png)
 
 ---
 
@@ -45,7 +47,7 @@ Features:
 
 The chatbot appears as a floating icon and expands into a chat window when clicked.
 
-media/chatbot.png
+![AI Assistant](media/chatbot.png)
 
 ---
 
@@ -74,7 +76,7 @@ Additional learning tools include:
 
 A **Read Aloud** option allows the system to read the simplified content to the student.
 
-media/simplify-text.png
+![Simplify Text](media/simplify-text.png)
 
 ---
 
@@ -99,7 +101,7 @@ Features include:
 * Completion tracking
 * Rewards for completing schedules
 
-media/smart-scheduler.png
+![Smart Scheduler](media/smart-scheduler.png)
 
 ---
 
@@ -152,10 +154,9 @@ Displays:
 
 Visual charts provide insights into the student's learning habits.
 
-media/dashboard1.png
+![Dashboard View](media/dashboard1.png)
 
-media/dashboard2.png
-
+![Dashboard Analytics](media/dashboard2.png)
 ---
 
 ### 👨‍🏫 Teacher / Parent View
@@ -215,7 +216,7 @@ The demo includes:
 * Quiz generation
 * Dashboard analytics
 
-media/Demo.mp4
+[Watch the Demo Video](media/Demo.mp4)
 
 ---
 
